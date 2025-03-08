@@ -1,4 +1,4 @@
-To view the html use :
+To view the html use (the repo needs to be Public):
 https://htmlpreview.github.io/?
   the the html github link
 
